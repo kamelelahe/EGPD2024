@@ -1,5 +1,6 @@
-# EGPD2022
+# EGPD2024
 This is the website for the annual European Geothermal PhD Days conference of 2022.
+Special thanks to David for providing the source code.
 
 # Building the website for future EGPDs
 
