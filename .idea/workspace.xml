@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de2cad5f-edf8-49ad-8532-35d97b9bd5e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/travelandaccomodation.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelandaccomodation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oursponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/oursponsors.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travelandaccomodation.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="766">
@@ -26,6 +26,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sponsor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1383" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oursponsors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -35,6 +51,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/travelandaccomodation.html" />
+        <option value="$PROJECT_DIR$/oursponsors.html" />
       </list>
     </option>
   </component>
@@ -126,6 +143,18 @@
             <element signature="n#style#0;n#iframe#1;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#2;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sponsor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oursponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
         </state>
       </provider>
     </entry>
