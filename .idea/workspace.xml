@@ -36,10 +36,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oursponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+            <state relative-caret-position="629">
+              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/sponsors/PanTerraBlue.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -72,6 +77,17 @@
             <path>
               <item name="EGPD2024" type="b2602c69:ProjectViewProjectNode" />
               <item name="EGPD2024" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EGPD2024" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EGPD2024" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EGPD2024" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EGPD2024" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="sponsors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,10 +167,13 @@
         <state relative-caret-position="-1383" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/sponsors/PanTerraBlue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/oursponsors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        <state relative-caret-position="629">
+          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
         </state>
       </provider>
     </entry>
